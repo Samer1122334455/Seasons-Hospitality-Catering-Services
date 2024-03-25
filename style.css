@@ -1,0 +1,30 @@
+.section {
+    margin-bottom: 800px; /* تحديد المسافة بين الأقسام */
+  }
+  
+
+  .footer {
+    background-color: #C98D3A;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 12px; /* تصغير حجم الخط */
+  }
+  
+  .footer h3 {
+    margin-top: 5px; /* تصغير المسافة بين عنوان h3 والمحتوى السابق */
+  }
+  
+  .footer p {
+    margin: 5px 0; /* تصغير المسافة بين الفقرات */
+  }
+  
+  .social-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  
